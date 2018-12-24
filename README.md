@@ -22,7 +22,6 @@ This repo contains all my work for Convolutional Neural Network and Sequential M
   - [Generating names for Dinosaurus - Character level language model](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week1/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
   - [Improvise a Jazz Solo with an LSTM Network](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week1/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
   - [Word Vectors](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week2/Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)
-  - [Word Vectors](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week2/Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v2.ipynb)
   - [Build an Emojifier using Word Vectors](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week2/Emojify/Emojify%20-%20v2.ipynb)
   - [Neural machine translation with attention](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)
   - [Trigger Word Detection](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week3/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)
